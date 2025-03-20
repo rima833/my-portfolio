@@ -391,7 +391,7 @@ border-left: solid 5px #ff5733;
 }
 .icon {
     font-size: 30px;
-    color: #ff5733;
+    color: #b84227;
     margin-top: auto;
     margin-left: auto;
 }
@@ -410,6 +410,7 @@ border-left: solid 5px #ff5733;
     }
     .about-text h2 span {
         font-size: 35px;
+    
         
     }
 }
